@@ -1,0 +1,23 @@
+header{
+    background-color: #0A1451;
+    color: #FFFFFF;
+}
+
+     .imagem-logo {
+     width:  50px;
+
+     height: 50px;
+
+     margin: 20px;
+
+     padding: 20px;
+
+    }
+    .lista-cabeçalho {
+        display: flex;
+
+    }
+    .Cesaf-portao {
+     width: 20%;
+     Height: 20%;
+    }
